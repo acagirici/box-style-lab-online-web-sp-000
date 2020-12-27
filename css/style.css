@@ -45,6 +45,11 @@ h4 {
   display: inline-block;
 }
 
+img {
+  border: 5px solid #555;
+  box-sizing: border-box;
+}
+
 .small {
   width: 100%;
   height: 100%;
